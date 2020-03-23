@@ -1,2 +1,2 @@
 # Rental-Flatmate
-Project done by Imran and Neha
+Project done by Imran and Sneha
