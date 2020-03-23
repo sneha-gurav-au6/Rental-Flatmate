@@ -1,0 +1,24 @@
+{
+  "name": "Rental-Flatmate",
+  "version": "1.0.0",
+  "description": "Project done by Imran and Sneha",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneha-gurav-au6/Rental-Flatmate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneha-gurav-au6/Rental-Flatmate/issues"
+  },
+  "homepage": "https://github.com/sneha-gurav-au6/Rental-Flatmate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
